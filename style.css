@@ -1,0 +1,25 @@
+.container {
+    margin-bottom: 100px;
+}
+.carousel{
+    background-image: linear-gradient(to bottom, #d1c5ca 0%, #d69ab1 100%);
+    border-radius: 8px;
+}
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.carousel-indicators .active {
+    background-color: #ebdd43;
+    opacity: 1;
+    width: 30px;
+    height:10px;
+}
+button.buy-now-button {
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
